@@ -1,0 +1,13 @@
+C:\Users\Philipe\source\repos\URI1003\bin\Debug\netcoreapp3.1\URI1003.exe
+C:\Users\Philipe\source\repos\URI1003\bin\Debug\netcoreapp3.1\URI1003.deps.json
+C:\Users\Philipe\source\repos\URI1003\bin\Debug\netcoreapp3.1\URI1003.runtimeconfig.json
+C:\Users\Philipe\source\repos\URI1003\bin\Debug\netcoreapp3.1\URI1003.runtimeconfig.dev.json
+C:\Users\Philipe\source\repos\URI1003\bin\Debug\netcoreapp3.1\URI1003.dll
+C:\Users\Philipe\source\repos\URI1003\bin\Debug\netcoreapp3.1\URI1003.pdb
+C:\Users\Philipe\source\repos\URI1003\obj\Debug\netcoreapp3.1\URI1003.csproj.AssemblyReference.cache
+C:\Users\Philipe\source\repos\URI1003\obj\Debug\netcoreapp3.1\URI1003.AssemblyInfoInputs.cache
+C:\Users\Philipe\source\repos\URI1003\obj\Debug\netcoreapp3.1\URI1003.AssemblyInfo.cs
+C:\Users\Philipe\source\repos\URI1003\obj\Debug\netcoreapp3.1\URI1003.csproj.CoreCompileInputs.cache
+C:\Users\Philipe\source\repos\URI1003\obj\Debug\netcoreapp3.1\URI1003.dll
+C:\Users\Philipe\source\repos\URI1003\obj\Debug\netcoreapp3.1\URI1003.pdb
+C:\Users\Philipe\source\repos\URI1003\obj\Debug\netcoreapp3.1\URI1003.genruntimeconfig.cache
