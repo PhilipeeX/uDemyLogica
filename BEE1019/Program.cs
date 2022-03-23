@@ -6,14 +6,15 @@ namespace BEE1019
     {
         static void Main(string[] args)
         {
-            double entradaSegundos, segundos, minutos, horas;
-            entradaSegundos = double.Parse(Console.ReadLine());
+            int entradaSegundos, segundos, minutos, horas;
+            entradaSegundos = int.Parse(Console.ReadLine());
 
 
             horas = entradaSegundos / 3600;
-            minutos = (entradaSegundos % 3600)*60;
+            minutos = entradaSegundos / 60 % 60;
             segundos = entradaSegundos % 60;
-            Console.WriteLine($"Entrada{entradaSegundos}, horas{horas}, minutos{minutos}, segundos{segundos},    ");
+
+            Console.WriteLine($"{horas}:{minutos}:{segundos}");
         }
     }
 }

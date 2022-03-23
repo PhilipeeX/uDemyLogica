@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Philipe\\Documents\\uDemyLogica\\BEE1019\\BEE1019.csproj",
+      "projectUniqueName": "D:\\Users\\Philipe\\Documents\\Programação\\uDemyLogica\\BEE1019\\BEE1019.csproj",
       "projectName": "BEE1019",
-      "projectPath": "D:\\Users\\Philipe\\Documents\\uDemyLogica\\BEE1019\\BEE1019.csproj",
+      "projectPath": "D:\\Users\\Philipe\\Documents\\Programação\\uDemyLogica\\BEE1019\\BEE1019.csproj",
       "packagesPath": "C:\\Users\\Philipe\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Philipe\\Documents\\uDemyLogica\\BEE1019\\obj\\",
+      "outputPath": "D:\\Users\\Philipe\\Documents\\Programação\\uDemyLogica\\BEE1019\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
