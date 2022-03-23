@@ -19,7 +19,7 @@ namespace primeira_aulaUdemy
 
             media = (double)(idade1 + idade2) / 2;
 
-            Console.WriteLine("A idade média de " + nome1 + " e " + nome2 + " é de " + media + " anos");
+            Console.WriteLine("a idade média de " + nome1 + " e " + nome2 + " é de " + media + " anos");
 
         }
     }
