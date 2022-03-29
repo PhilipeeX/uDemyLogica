@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Philipe\\Documents\\uDemyLogica\\BEE1020\\BEE1020.csproj",
-      "projectName": "BEE1020",
-      "projectPath": "D:\\Users\\Philipe\\Documents\\uDemyLogica\\BEE1020\\BEE1020.csproj",
+      "projectUniqueName": "D:\\Users\\Philipe\\Documents\\uDemyLogica\\Secao4 exercicio resolvido 01\\Secao4 exercicio resolvido 01.csproj",
+      "projectName": "Secao4 exercicio resolvido 01",
+      "projectPath": "D:\\Users\\Philipe\\Documents\\uDemyLogica\\Secao4 exercicio resolvido 01\\Secao4 exercicio resolvido 01.csproj",
       "packagesPath": "C:\\Users\\Philipe\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Philipe\\Documents\\uDemyLogica\\BEE1020\\obj\\",
+      "outputPath": "D:\\Users\\Philipe\\Documents\\uDemyLogica\\Secao4 exercicio resolvido 01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
