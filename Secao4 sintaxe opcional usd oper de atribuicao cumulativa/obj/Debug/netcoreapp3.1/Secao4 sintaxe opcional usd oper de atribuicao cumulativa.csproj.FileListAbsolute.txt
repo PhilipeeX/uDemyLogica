@@ -1,0 +1,13 @@
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\bin\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.exe
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\bin\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.deps.json
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\bin\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.runtimeconfig.json
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\bin\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.runtimeconfig.dev.json
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\bin\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.dll
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\bin\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.pdb
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\obj\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.csproj.AssemblyReference.cache
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\obj\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.AssemblyInfoInputs.cache
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\obj\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.AssemblyInfo.cs
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\obj\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.csproj.CoreCompileInputs.cache
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\obj\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.dll
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\obj\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.pdb
+D:\Users\Philipe\Documents\uDemyLogica\Secao4 sintaxe opcional usd oper de atribuicao cumulativa\obj\Debug\netcoreapp3.1\Secao4 sintaxe opcional usd oper de atribuicao cumulativa.genruntimeconfig.cache
