@@ -1,0 +1,13 @@
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\bin\Debug\netcoreapp3.1\BEE1044.exe
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\bin\Debug\netcoreapp3.1\BEE1044.deps.json
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\bin\Debug\netcoreapp3.1\BEE1044.runtimeconfig.json
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\bin\Debug\netcoreapp3.1\BEE1044.runtimeconfig.dev.json
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\bin\Debug\netcoreapp3.1\BEE1044.dll
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\bin\Debug\netcoreapp3.1\BEE1044.pdb
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\obj\Debug\netcoreapp3.1\BEE1044.csproj.AssemblyReference.cache
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\obj\Debug\netcoreapp3.1\BEE1044.AssemblyInfoInputs.cache
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\obj\Debug\netcoreapp3.1\BEE1044.AssemblyInfo.cs
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\obj\Debug\netcoreapp3.1\BEE1044.csproj.CoreCompileInputs.cache
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\obj\Debug\netcoreapp3.1\BEE1044.dll
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\obj\Debug\netcoreapp3.1\BEE1044.pdb
+D:\Users\Philipe\Documents\uDemyLogica\BEE1044\obj\Debug\netcoreapp3.1\BEE1044.genruntimeconfig.cache
