@@ -1,0 +1,13 @@
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\bin\Debug\netcoreapp3.1\BEE1035.exe
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\bin\Debug\netcoreapp3.1\BEE1035.deps.json
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\bin\Debug\netcoreapp3.1\BEE1035.runtimeconfig.json
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\bin\Debug\netcoreapp3.1\BEE1035.runtimeconfig.dev.json
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\bin\Debug\netcoreapp3.1\BEE1035.dll
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\bin\Debug\netcoreapp3.1\BEE1035.pdb
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\obj\Debug\netcoreapp3.1\BEE1035.csproj.AssemblyReference.cache
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\obj\Debug\netcoreapp3.1\BEE1035.AssemblyInfoInputs.cache
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\obj\Debug\netcoreapp3.1\BEE1035.AssemblyInfo.cs
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\obj\Debug\netcoreapp3.1\BEE1035.csproj.CoreCompileInputs.cache
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\obj\Debug\netcoreapp3.1\BEE1035.dll
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\obj\Debug\netcoreapp3.1\BEE1035.pdb
+D:\Users\Philipe\Documents\uDemyLogica\BEE1035\obj\Debug\netcoreapp3.1\BEE1035.genruntimeconfig.cache
