@@ -1,0 +1,4 @@
+D:\Users\Philipe\Documents\uDemyLogica\BEE1045\obj\Debug\netcoreapp3.1\BEE1045.csproj.AssemblyReference.cache
+D:\Users\Philipe\Documents\uDemyLogica\BEE1045\obj\Debug\netcoreapp3.1\BEE1045.AssemblyInfoInputs.cache
+D:\Users\Philipe\Documents\uDemyLogica\BEE1045\obj\Debug\netcoreapp3.1\BEE1045.AssemblyInfo.cs
+D:\Users\Philipe\Documents\uDemyLogica\BEE1045\obj\Debug\netcoreapp3.1\BEE1045.csproj.CoreCompileInputs.cache
