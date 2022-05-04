@@ -6,29 +6,63 @@ namespace BEE1042
     {
         static void Main(string[] args)
         {
-            int a, b, c,maiorAB,maiorBC,maior,meio,menor;
+            int a, b, c,maior,meio,menor;
 
             string[] vet = Console.ReadLine().Split(' ');
             a = int.Parse(vet[0]);
             b = int.Parse(vet[1]);
             c = int.Parse(vet[2]);
-            maiorAB = (a + b + Math.Abs(a - b)) / 2;
-            maiorBC = (b + c + Math.Abs(b - c))/2;
 
-            if (a >= maiorBC)
+            if (a > b && a > c)
             {
                 maior = a;
-                meio = maiorBC;
+                if (b > c)
+                {
+                    meio = b;
+                    menor = c;
+                }
+                else
+                {
+                    meio = c;
+                    menor = b;
+                }
             }
-            else if (c >= maiorAB)
+            else if (b > a && b > c)
             {
-                maior = c;
-                meio = maiorAB;
+                maior = b;
+                if (a > c)
+                {
+                    meio = a;
+                    menor = c;
+                }
+                else
+                {
+                    meio = c;
+                    menor = a;
+                }
             }
-            else { Console.WriteLine("seila"); }
+            else {
+                maior = c;
+                if (b > a)
+                {
+                    meio = b;
+                    menor = a;
+                }
+                else {
+                    meio = a;
+                    menor = b;
+                }
+            }
 
-            Console.WriteLine($"{maior} {meio}");
-            
+            Console.WriteLine($"{menor}");
+            Console.WriteLine($"{meio}");
+            Console.WriteLine($"{maior}");
+            Console.WriteLine($"");
+            Console.WriteLine($"{a}");
+            Console.WriteLine($"{b}");
+            Console.WriteLine($"{c}");
+
+
         }
     }
 }
