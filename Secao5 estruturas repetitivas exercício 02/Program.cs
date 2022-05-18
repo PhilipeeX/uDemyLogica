@@ -11,13 +11,21 @@ namespace Secao5_estruturas_repetitivas_exercício_02
             // média deste grupo de indivíduos. Se for entrado um valor negativo na primeira vez mostre a mensagem
             // "impossível calcular".
             int x = 0;
+            double media,mediaFinal;
             double idade = double.Parse(Console.ReadLine());
-            while (idade > 0) {
-                x += 1;
-                idade = double.Parse(Console.ReadLine());
+            if (idade < 0)
+            {
+                Console.WriteLine($"Impossivel calcular");
             }
-            double media= (double) idade / x;
-            Console.WriteLine($"{media}");
+            else
+            {
+                while (idade > 0)
+                {
+                    x += 1;
+                    media = idade / x;
+                    idade = double.Parse(Console.ReadLine());
+                }
+            }
         }
     }
 }
