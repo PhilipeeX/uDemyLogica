@@ -1,0 +1,13 @@
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\bin\Debug\netcoreapp3.1\URI1114.exe
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\bin\Debug\netcoreapp3.1\URI1114.deps.json
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\bin\Debug\netcoreapp3.1\URI1114.runtimeconfig.json
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\bin\Debug\netcoreapp3.1\URI1114.runtimeconfig.dev.json
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\bin\Debug\netcoreapp3.1\URI1114.dll
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\bin\Debug\netcoreapp3.1\URI1114.pdb
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\obj\Debug\netcoreapp3.1\URI1114.csproj.AssemblyReference.cache
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\obj\Debug\netcoreapp3.1\URI1114.AssemblyInfoInputs.cache
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\obj\Debug\netcoreapp3.1\URI1114.AssemblyInfo.cs
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\obj\Debug\netcoreapp3.1\URI1114.csproj.CoreCompileInputs.cache
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\obj\Debug\netcoreapp3.1\URI1114.dll
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\obj\Debug\netcoreapp3.1\URI1114.pdb
+D:\Users\Philipe\Documents\uDemyLogica\URI1114\obj\Debug\netcoreapp3.1\URI1114.genruntimeconfig.cache
