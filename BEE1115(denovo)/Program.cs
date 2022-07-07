@@ -10,7 +10,7 @@ namespace BEE1115_denovo_
             int X = int.Parse(vet[0]);
             int Y = int.Parse(vet[1]);
 
-            while (X != 0 || Y != 0) {
+            while (X != 0 && Y != 0) {
                 if (X > 0)
                 {
                     if (Y > 0) { Console.WriteLine("primeiro"); }
