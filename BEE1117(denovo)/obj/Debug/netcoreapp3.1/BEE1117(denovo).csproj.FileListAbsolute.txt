@@ -1,0 +1,14 @@
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\bin\Debug\netcoreapp3.1\BEE1117(denovo).exe
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\bin\Debug\netcoreapp3.1\BEE1117(denovo).deps.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\bin\Debug\netcoreapp3.1\BEE1117(denovo).runtimeconfig.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\bin\Debug\netcoreapp3.1\BEE1117(denovo).runtimeconfig.dev.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\bin\Debug\netcoreapp3.1\BEE1117(denovo).dll
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\bin\Debug\netcoreapp3.1\BEE1117(denovo).pdb
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\obj\Debug\netcoreapp3.1\BEE1117(denovo).csproj.AssemblyReference.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\obj\Debug\netcoreapp3.1\BEE1117(denovo).GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\obj\Debug\netcoreapp3.1\BEE1117(denovo).AssemblyInfoInputs.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\obj\Debug\netcoreapp3.1\BEE1117(denovo).AssemblyInfo.cs
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\obj\Debug\netcoreapp3.1\BEE1117(denovo).csproj.CoreCompileInputs.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\obj\Debug\netcoreapp3.1\BEE1117(denovo).dll
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\obj\Debug\netcoreapp3.1\BEE1117(denovo).pdb
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1117(denovo)\obj\Debug\netcoreapp3.1\BEE1117(denovo).genruntimeconfig.cache

@@ -2,39 +2,37 @@
 
 namespace BEE1134
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            int combustivel = int.Parse(Console.ReadLine());
-            int Alcool, Gasolina, Diesel;
-            Alcool = 0;
-            Gasolina = 0;
-            Diesel = 0;
+            int x, alcool, gasolina, diesel;
+            x = int.Parse(Console.ReadLine());
+            alcool = 0;
+            gasolina = 0;
+            diesel = 0;
 
-            while (combustivel != 4)
+            while (x != 4)
             {
-                if (combustivel == 1)
+                if (x == 1)
                 {
-                    Alcool += 1;
+                    alcool += 1;
                 }
-                else if (combustivel == 2)
+                else if (x == 2)
                 {
-                    Gasolina += 1;
+                    gasolina += 1;
                 }
-                else if (combustivel == 3)
+                else if (x == 3)
                 {
-                    Diesel += 1;
+                    diesel += 1;
                 }
-                else
-                {
-                }
-                combustivel = int.Parse(Console.ReadLine());
+                else { }
+                x = int.Parse(Console.ReadLine());
             }
             Console.WriteLine("MUITO OBRIGADO");
-            Console.WriteLine($"Alcool: {Alcool}");
-            Console.WriteLine($"Gasolina: {Gasolina}");
-            Console.WriteLine($"Diesel: {Diesel}");
+            Console.WriteLine($"Alcool: {alcool}");
+            Console.WriteLine($"Gasolina: {gasolina}");
+            Console.WriteLine($"Diesel: {diesel}");
         }
     }
 }
