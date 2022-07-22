@@ -8,20 +8,26 @@ namespace BEE1071
         {
             int x = int.Parse(Console.ReadLine());
             int y = int.Parse(Console.ReadLine());
-            int z = ;
-            int soma = 0;
+            int min, max;
 
-            for (int i = 1; z < ((x+y+Math.Abs(x-y))/2); i++) {
-                z = x + i;
-                if (z % 2 == 0)
-                {
-                    z = z + 1;
-                }
-                else {
-                    soma = soma + z;
-                }
+            if (x >y) {
+                min = y;
+                max = x;
+            } 
+            else {
+                min = x;
+                max = y;
             }
-
+            int soma = 0;
+            for (int i = min + 1; i < max; i++)
+            {
+                if (i % 2 != 0)
+                {
+                    soma += i;
+                }
+                else { }
+            }
+            Console.WriteLine($"{soma}");
         }
     }
 }
