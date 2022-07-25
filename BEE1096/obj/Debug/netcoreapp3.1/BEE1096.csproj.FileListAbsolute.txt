@@ -1,0 +1,14 @@
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\bin\Debug\netcoreapp3.1\BEE1096.exe
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\bin\Debug\netcoreapp3.1\BEE1096.deps.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\bin\Debug\netcoreapp3.1\BEE1096.runtimeconfig.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\bin\Debug\netcoreapp3.1\BEE1096.runtimeconfig.dev.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\bin\Debug\netcoreapp3.1\BEE1096.dll
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\bin\Debug\netcoreapp3.1\BEE1096.pdb
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\obj\Debug\netcoreapp3.1\BEE1096.csproj.AssemblyReference.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\obj\Debug\netcoreapp3.1\BEE1096.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\obj\Debug\netcoreapp3.1\BEE1096.AssemblyInfoInputs.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\obj\Debug\netcoreapp3.1\BEE1096.AssemblyInfo.cs
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\obj\Debug\netcoreapp3.1\BEE1096.csproj.CoreCompileInputs.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\obj\Debug\netcoreapp3.1\BEE1096.dll
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\obj\Debug\netcoreapp3.1\BEE1096.pdb
+D:\Users\Philipe\Documents\Programação\uDemyLogica\BEE1096\obj\Debug\netcoreapp3.1\BEE1096.genruntimeconfig.cache
