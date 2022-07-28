@@ -1,0 +1,14 @@
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\bin\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.exe
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\bin\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.deps.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\bin\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.runtimeconfig.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\bin\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.runtimeconfig.dev.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\bin\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.dll
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\bin\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.pdb
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\obj\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.csproj.AssemblyReference.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\obj\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\obj\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.AssemblyInfoInputs.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\obj\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.AssemblyInfo.cs
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\obj\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.csproj.CoreCompileInputs.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\obj\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.dll
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\obj\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.pdb
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6aula7 vetores exercicio resolvido 03\obj\Debug\netcoreapp3.1\secao6aula7 vetores exercicio resolvido 03.genruntimeconfig.cache
