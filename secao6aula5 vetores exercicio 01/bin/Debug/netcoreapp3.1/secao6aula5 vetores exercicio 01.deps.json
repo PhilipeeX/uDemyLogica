@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "secao6aula5 vetores exercicio 01/1.0.0": {
+        "runtime": {
+          "secao6aula5 vetores exercicio 01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "secao6aula5 vetores exercicio 01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
