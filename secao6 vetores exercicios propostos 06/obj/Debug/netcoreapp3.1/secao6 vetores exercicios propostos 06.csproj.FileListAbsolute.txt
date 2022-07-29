@@ -1,0 +1,14 @@
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\bin\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.exe
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\bin\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.deps.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\bin\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.runtimeconfig.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\bin\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.runtimeconfig.dev.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\bin\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.dll
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\bin\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.pdb
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\obj\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.csproj.AssemblyReference.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\obj\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\obj\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.AssemblyInfoInputs.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\obj\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.AssemblyInfo.cs
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\obj\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.csproj.CoreCompileInputs.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\obj\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.dll
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\obj\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.pdb
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao6 vetores exercicios propostos 06\obj\Debug\netcoreapp3.1\secao6 vetores exercicios propostos 06.genruntimeconfig.cache
