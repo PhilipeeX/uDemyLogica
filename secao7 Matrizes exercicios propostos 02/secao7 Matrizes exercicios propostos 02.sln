@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secao7 Matrizes exercicios propostos 02", "secao7 Matrizes exercicios propostos 02.csproj", "{2FC06B28-0DC3-4EED-B2B5-360CE91CB283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC06B28-0DC3-4EED-B2B5-360CE91CB283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC06B28-0DC3-4EED-B2B5-360CE91CB283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC06B28-0DC3-4EED-B2B5-360CE91CB283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC06B28-0DC3-4EED-B2B5-360CE91CB283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD64E6BD-FBCE-4697-9F4B-FEC576232F73}
+	EndGlobalSection
+EndGlobal
