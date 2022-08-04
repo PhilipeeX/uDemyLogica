@@ -1,0 +1,14 @@
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\bin\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.exe
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\bin\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.deps.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\bin\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.runtimeconfig.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\bin\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.runtimeconfig.dev.json
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\bin\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.dll
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\bin\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.pdb
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\obj\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.csproj.AssemblyReference.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\obj\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\obj\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.AssemblyInfoInputs.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\obj\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.AssemblyInfo.cs
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\obj\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.csproj.CoreCompileInputs.cache
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\obj\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.dll
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\obj\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.pdb
+D:\Users\Philipe\Documents\Programação\uDemyLogica\secao7 Matrizes exercicios propostos 05\obj\Debug\netcoreapp3.1\secao7 Matrizes exercicios propostos 05.genruntimeconfig.cache
